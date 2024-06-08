@@ -1,13 +1,13 @@
 ---
 title: 'NutriSense: Automated Hydroponics Dosing System'
-author: '**Kushagra Tiwari and Shengmin Liu** (website template by Ryan Tsang)'
-date: '*EEC172 WQ24*'
+author: '**Vedant Patel and Jonathan Wang** (website template by Ryan Tsang)'
+date: '*EEC172 SQ24*'
 
 subtitle: '<blockquote><b>EEC172 Final Project Webpage Example</b><br/>
 Note to current students: this is an <i>example</i> webpage and
 may not fulfill all stated requirements of the current quarter''s 
 assignment.<br/>The website source is hosted 
-<a href="https://github.com/ucd-eec172/project-website-example">on github</a>.
+<a href="https://github.com/ved-bot-hub/wIRdle">on github</a>.
 </blockquote>'
 
 toc-title: 'Table of Contents'
@@ -27,7 +27,7 @@ the TDS value goes outside thresholds.
 <br/><br/>
 Our source code can be found 
 <!-- replace this link -->
-<a href="https://github.com/ucd-eec172/project-website-example">
+<a href="https://github.com/ved-bot-hub/wIRdle">
   here (placeholder)</a>.
 
 <div style="display:flex;flex-wrap:wrap;justify-content:space-evenly;padding-top:20px">
